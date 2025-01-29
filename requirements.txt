@@ -1,0 +1,4 @@
+Flask
+aiohttp
+python-dotenv
+pymongo
